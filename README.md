@@ -10,7 +10,7 @@ Inventory and transaction system prototype
 ### Screenshots
 <img src="https://raw.githubusercontent.com/magirics/mikrotres/media/readme/inventory.png" width="600" title="Inventory">
 <img src="https://raw.githubusercontent.com/magirics/mikrotres/media/readme/login.png" width="600" title="Login">
-<img src="https://github.com/magirics/mikrotres/blob/media/readme/product_form.png" width="600" title="Product form">
+<img src="https://raw.githubusercontent.com/magirics/mikrotres/media/readme/product_form.png" width="600" title="Product form">
 <img src="https://raw.githubusercontent.com/magirics/mikrotres/media/readme/transactions.png" width="600" title="Transactions">
 <img src="https://raw.githubusercontent.com/magirics/mikrotres/media/readme/transactions_form.png" width="600" title="Transaction form">
 
